@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'love-moment.regular';
+   font-display: swap;
+   src: url('love-moment.regular/font.ttf');
+}
+@font-face {
+   font-family: 'segoesc';
+   font-display: swap;
+   src: url('segoesc/font.ttf');
+}
+@font-face {
+   font-family: 'verdana';
+   font-display: swap;
+   src: url('verdana/font.ttf');
+}
