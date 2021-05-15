@@ -103,15 +103,15 @@
     "versionPublish": "5.3.5",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/logo-ko-128x90-1.png",
-    "mbrsiteDomain": "ywtv2uunhy",
+    "favicon": false,
+    "mbrsiteDomain": "yee2scoihw",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
